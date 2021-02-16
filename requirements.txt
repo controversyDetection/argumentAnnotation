@@ -1,0 +1,6 @@
+pandas
+notebook
+numpy
+pigeonXT-jupyter
+matplotlib
+plotly

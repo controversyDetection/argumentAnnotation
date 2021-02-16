@@ -1,0 +1,101 @@
+,doc_id,drugName,condition,rating
+44014,6fa4ae61-d7ec-48ff-9d83-4881229366a4,Nexplanon,Birth Control,10.0
+27159,29445e27-9563-4486-9d0a-faca7c8a2c60,Alprazolam,Anxiety,10.0
+21172,d51d4f22-262a-4569-af33-b1de62a832c5,Liraglutide,"Diabetes, Type 2",7.0
+7284,1aeecdb8-e478-4a9a-b252-c4b2ab21a02d,Varenicline,Smoking Cessation,10.0
+50589,65ceeb02-a0e5-46a1-a203-75ee8d9d1d1d,Phentermine,Weight Loss,9.0
+37498,eafe5b84-5c3e-4cc8-aeea-aaf687a68131,Ethinyl estradiol / norethindrone,Birth Control,1.0
+5024,a783a27a-f45b-422f-9a8a-0cf9c00e87fc,Etonogestrel,Birth Control,10.0
+27366,746c883d-b999-4864-9c0b-c659939adf88,Miconazole,Vaginal Yeast Infection,1.0
+6916,4286090c-9e69-4a78-a180-50a1b214f041,Bupropion,Depression,10.0
+9564,8f8aab79-f39f-4a4f-808d-81f0c7398e77,Etonogestrel,Birth Control,3.0
+11613,c4be53d5-c805-4812-9060-de2f0b97dce3,Etonogestrel,Birth Control,10.0
+8477,46264a7f-4ecc-47a1-85d8-215eaa6023d2,Drospirenone / ethinyl estradiol,Birth Control,1.0
+13506,3df04033-1b21-44f4-9739-1ac2a8c007cf,Alprazolam,Anxiety,10.0
+50510,12f09007-04c9-4b83-99be-d8b8b25caa07,Zoloft,Depression,1.0
+34199,eb4fedaf-0c42-44a9-ade7-2fcdfbf9f39b,Metronidazole,Bacterial Vaginitis,10.0
+21087,854dd226-734d-418b-b68e-e5ba5d778adc,Nexplanon,Birth Control,8.0
+7375,501cdfcb-5982-4500-af24-2d7be31b731c,Etonogestrel,Birth Control,1.0
+22450,f5075401-dc7a-4239-aa65-41abe45082d3,Phentermine,Weight Loss,10.0
+33712,9f4afd82-8e76-44f3-98de-6023f9e74816,Escitalopram,Depression,10.0
+7775,84d1d5fe-2849-4b45-81c9-655baa473845,Levonorgestrel,Birth Control,2.0
+12077,0e259895-79f9-4223-bc65-455f8133f7e7,Sertraline,Anxiety and Stress,10.0
+29850,6da31953-ced4-4ab8-979a-7bcb082a188f,Bupropion,Depression,9.0
+22783,b0700b29-edfb-4fb2-af31-ac71f1b0bd86,Miconazole,Vaginal Yeast Infection,1.0
+19364,eff1583d-75a3-4770-ad85-521916f1e1f4,Bupropion,Depression,9.0
+5299,1b4ad3a2-0de3-4ba5-b0c8-694954cdb2da,Fluoxetine,Depression,8.0
+14708,0daa1683-022a-4d8d-8e5b-6e6f6d98f1aa,NuvaRing,Birth Control,5.0
+52123,c4923f3e-899a-472e-83c3-39ba2a024c3d,Nexplanon,Birth Control,1.0
+16086,9b618119-8967-4135-b5e7-6a1cfb1d0412,Lamotrigine,Bipolar Disorde,10.0
+34556,9c08799b-3898-461d-8abd-096c9b92b500,Contrave,Obesity,2.0
+39332,6a18b6a7-888f-4b7b-9fa1-4d1836a73d73,Amitriptyline,Interstitial Cystitis,7.0
+52114,17295290-f77c-405b-85de-e1823bf94593,Ethinyl estradiol / norgestimate,Birth Control,10.0
+48573,020ee47d-232a-4250-887a-3a22bdfdc01c,Escitalopram,Anxiety,6.0
+17933,1069aaac-8812-4537-9014-d97bcc721c2b,Paroxetine,Anxiety and Stress,2.0
+13528,65018bbb-9bac-446d-a93c-e06ccf46f73c,Bupropion / naltrexone,Weight Loss,8.0
+38159,3380ee2c-72dc-4024-9550-0b4978183d60,Ethinyl estradiol / norethindrone,Birth Control,10.0
+24624,77d51ce8-e311-4efc-88e7-4825e321fc56,Lo Loestrin Fe,Birth Control,1.0
+43757,c7d3784e-42ee-4f66-8549-c6ce09501ebd,Ethinyl estradiol / norethindrone,Endometriosis,9.0
+34503,fe5f10b7-b593-459f-9ce1-1a24ef4e7eef,Levonorgestrel,Birth Control,9.0
+3503,876969f1-352d-43af-a4b6-7c5073c4deb8,Nexplanon,Birth Control,6.0
+39652,d96a3a66-e08e-471b-bebb-672ea18c2b59,Ethinyl estradiol / levonorgestrel,Birth Control,1.0
+5616,4d0cefd0-cebc-4fbe-b479-81c9a5e5257a,Tramadol,Pain,7.0
+18792,4cac7408-62a0-4a1b-a649-5bb2b6213f4d,Duloxetine,Depression,1.0
+6923,5fad4d0b-eaed-4a8a-b695-4cfacbd16cb1,Amitriptyline,Insomnia,1.0
+22007,1c1dd35c-e610-40ce-a546-d7018e0957ea,Magnesium sulfate / potassium sulfate / sodium sulfate,Bowel Preparation,8.0
+19273,75ceff8b-3223-4e85-8df2-654192841be2,Trazodone,Insomnia,9.0
+49759,53516e3f-4318-4d35-8333-6403fc56e316,Nexplanon,Birth Control,3.0
+46751,d6e4d216-2e48-4e04-afd5-dfc163df8fe0,Ethinyl estradiol / norethindrone,Birth Control,3.0
+16169,af5f3b1a-f0be-402d-91d4-d679af440a6d,Bupropion / naltrexone,Obesity,9.0
+23816,df8a5c37-5f32-4a9f-9399-c036ce2f1b80,Zoloft,Social Anxiety Disorde,10.0
+36472,726e4cbd-0bdd-4d56-a4ff-3997b060fb6c,Pregabalin,Generalized Anxiety Disorde,8.0
+26558,47392113-5198-483a-958a-98a5da900d57,Tioconazole,Vaginal Yeast Infection,2.0
+25589,1747b9c5-43c2-495b-b982-c4dde7ea2851,Etonogestrel,Birth Control,4.0
+11160,85f98d93-f972-4a40-8fc4-5ca3fd89b3b0,Gabapentin,Anxiety,9.0
+24024,d7a45816-029d-42b0-818a-2a1a45279757,Nexplanon,Birth Control,10.0
+35565,341a9e07-ca6a-44c4-b6f9-2b17e413926b,Bupropion,Anxiety,7.0
+8120,a6a1da02-efdc-457b-920a-fae687e3d4f1,Implanon,Birth Control,2.0
+3722,48e98acf-efdd-458f-a1ce-84049b1c507e,Levonorgestrel,Birth Control,6.0
+30672,78614e9e-a97d-4f87-9afa-a7c7b2eb8449,Ethinyl estradiol / norgestimate,Acne,8.0
+6769,bdd5cbb2-0a7d-4efd-bd6e-6215b8f21400,Fluoxetine,Anxiety and Stress,10.0
+7229,de247c6a-179f-4ea7-9fe4-c58ffc9c8b79,Ethinyl estradiol / norgestimate,Birth Control,8.0
+8679,fc07d7b0-88fd-46bf-b295-4c08ae6c1bc0,Ethinyl estradiol / norgestimate,Birth Control,10.0
+15132,f955dc7e-d94a-4674-a58b-a575582f7db8,NuvaRing,Birth Control,5.0
+14689,20c54e09-9712-42e9-aa9e-60dffc3bcb41,Levonorgestrel,Emergency Contraception,10.0
+27703,d12ddd07-6fd6-47df-810f-007aa0560225,Tramadol,Anxiety,10.0
+42682,65f7f183-7989-4198-8848-84684904c577,Levonorgestrel,Birth Control,9.0
+19032,93cb6352-11b3-4863-903b-a82a65a6e5a7,Medroxyprogesterone,Birth Control,9.0
+30159,a2b94bf7-dfa2-445d-90d8-07673d1296a0,Skyla,Birth Control,8.0
+45148,fd815581-0a31-4e2f-afb5-b9dcc9419840,Drospirenone / ethinyl estradiol,Menstrual Disorders,10.0
+28799,622cb900-c328-49b6-8c24-3079235a9ef9,Duloxetine,Chronic Pain,4.0
+8165,76b8269e-65c3-446f-ac60-1ee5c3d7aa4f,Levonorgestrel,Emergency Contraception,1.0
+25037,2428e7c0-0566-4efc-b63e-c28edd707d95,Levonorgestrel,Birth Control,5.0
+48965,43df200d-e0bc-4023-a653-198c0eabbfe5,Etonogestrel,Birth Control,1.0
+33414,25357b93-d510-4230-99c6-042c9dcabdac,Doxycycline,Rosacea,10.0
+29407,1d1f89cf-d6e9-4df3-90ac-8747d15efbe4,Pregabalin,ibromyalgia,7.0
+25236,c545da2e-898d-4f53-97dc-acff7994693a,Mirena,Birth Control,5.0
+44059,e5ab6388-8797-4409-b07e-acbe3f823f9b,Lexapro,Generalized Anxiety Disorde,10.0
+43160,82bda4df-f944-4201-9fc4-b78648e7a02a,Nexplanon,Birth Control,5.0
+5503,5d5d2cfe-6399-4799-9a9e-bba4ae3ff38f,Contrave,Weight Loss,6.0
+14680,29041171-2ef8-4f3f-b3da-cc303d92e839,Drospirenone / ethinyl estradiol,Menstrual Disorders,1.0
+12267,604526dd-18db-4b66-aeba-4c2cc0537525,Levonorgestrel,Birth Control,10.0
+9427,1c6c4e83-3aec-4afe-8da4-27fdb8c259f4,Ethinyl estradiol / norethindrone,Birth Control,9.0
+19329,064da570-8236-4eeb-be6b-22d78f408b65,Suprep Bowel Prep Kit,Bowel Preparation,8.0
+39088,fe640d0c-ea65-46ee-abec-1a45f28ab6dc,Varenicline,Smoking Cessation,9.0
+29425,7b287873-0662-4d23-8a2c-7787d47f36ee,Mirena,Birth Control,10.0
+22785,e8c33db3-52a3-4f6a-90cb-3dc733a678a7,Etonogestrel,Birth Control,3.0
+30069,1a7d5e4c-5f63-4923-bfb7-6366c7255303,Ethinyl estradiol / norgestimate,Birth Control,2.0
+10631,564a3bf2-5561-436c-ba3a-811f6b9ed0a1,Clonazepam,Anxiety,1.0
+35027,27ab4723-efda-4406-8b22-c752187ff78b,Sertraline,Depression,7.0
+25382,dbd3ec6c-cf9b-466d-9393-8841187dc6df,Duloxetine,ibromyalgia,8.0
+44547,e0ba966f-1f1b-43e4-9e10-4ed90fb7a19f,Levonorgestrel,Birth Control,10.0
+17586,e554afdf-1f4b-4de8-a295-50534cac9304,Liraglutide,Obesity,7.0
+413,80a0ab9a-a11f-440e-b242-ec4d3cff6063,Bupropion / naltrexone,Weight Loss,9.0
+44187,bdcf0ad7-ae9b-4cd0-b1a9-8ec0510f7757,Bupropion,Postural Orthostatic Tachycardia Syndrome,8.0
+48568,a71c051a-9fd4-43cb-8ea7-01e256b41297,Suprep Bowel Prep Kit,Bowel Preparation,3.0
+29400,a01640ba-6f60-418b-80dd-d3613658dbfd,Liraglutide,"Diabetes, Type 2",9.0
+46134,4d22c52d-8edc-4260-a02c-90b34c155c84,Topiramate,Seizure Prevention,8.0
+24489,895ee2d8-dea1-4e94-9740-5c1dd40dfbe5,Ethinyl estradiol / levonorgestrel,Birth Control,9.0
+13940,dae49177-c9a6-4ae2-af36-87d8915ec5d8,Escitalopram,Not Listed / Othe,8.0
+34996,1d3271b4-3e79-411b-9425-6ef6062776e1,Escitalopram,Generalized Anxiety Disorde,6.0
+33239,aff1adc3-c522-4995-955b-610f8cfdb39e,Duloxetine,Depression,9.0
