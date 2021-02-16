@@ -2,7 +2,42 @@
 
 Tasks, scripts and notebooks to test Argument Annotation
 
-## How to run it
+## How to run it locally
+
+1. Clone the repo:
+
+```
+git clone https://github.com/controversyDetection/argumentAnnotation.git 
+```
+
+2. Go to folder
+
+```
+cd argumentAnnotation
+```
+
+3. Install requirements (recommended within a virtual environment)
+
+```
+pip install -r requirements.txt
+```
+
+4. Run Jupyter in terminal. It will open a browser to the notebook.
+
+```
+jupyter notebook
+```
+
+5. Go to ```notebooks/annotation_schema.ipynb``` and run all cells until the "Annotation Task".
+
+6. Run all the cells until the "Annotation Task". Then the interactive annotation process will start...
+
+7. Once you are ready with annotations, run the "Save Results" cell.  It will save the annotations as ```.json``` in a folder named ```output```
+
+
+----
+
+## How to run it as Docker
 1. Clone the repo:
 
 ```
